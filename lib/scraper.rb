@@ -16,7 +16,7 @@ class Scraper
     #   course.title = post.css("h2").text
     #   course.schedule = post.css("em.date").text
     #   course.description = post.css("p").text
-    # end 
+    end 
   end 
   
   def get_courses 
